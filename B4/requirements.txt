@@ -1,0 +1,1 @@
+# Дополнительные пакеты не требуются: Python standard library (sqlite3, tkinter).
